@@ -27,6 +27,7 @@ body  {
   height: 10px;
   width: 70%;
   margin: auto;
+  
 }
 
 li {
@@ -39,6 +40,7 @@ a {
   color: rebeccapurple;
   text-shadow: 1px 1px 2px darkgrey;
 }
+ 
 a:hover {
   color: ghostwhite;
 }
